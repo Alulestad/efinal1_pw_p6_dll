@@ -165,6 +165,8 @@ export default {
   align-items: center;
   flex-direction: column;
   border: 3px solid black;
+  margin: 10px auto;
+  width: 450px;
 }
 label {
   margin: 5px;
